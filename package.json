@@ -1,0 +1,32 @@
+{
+  "name": "03-async-callbacks",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-Fredrickson/03-async-callbacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshua-Fredrickson/03-async-callbacks/issues"
+  },
+  "homepage": "https://github.com/Joshua-Fredrickson/03-async-callbacks#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jest": "^21.15.0",
+    "jest": "^22.4.3"
+  }
+}
