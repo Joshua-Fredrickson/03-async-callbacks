@@ -24,7 +24,7 @@ const readFileArrayAsync = (fileArray, currentIndex, callback) => {
       readFileArrayAsync(fileArray, currentIndex +1, callback);
     });
   } catch (error) {
-    console.log(error);
+    console.log('ERROR', error);
   }
   return undefined;
 };
