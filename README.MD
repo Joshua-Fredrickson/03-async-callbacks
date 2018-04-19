@@ -3,7 +3,8 @@
 **Version**: 0.1.0
 
 ## Overview
-These 2 Node Modules will greet you and perform simple addition and subtraction tasks.
+The reader module will display an array (of any size) of .txt files onto your command line terminal.
+If the input array is invalid, you will receive a error message in the console.
 
 ## Getting Started
 You will need to have node.js installed locally to run these modules.
